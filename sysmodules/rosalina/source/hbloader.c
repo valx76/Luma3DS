@@ -148,7 +148,7 @@ static const u32 kernelCaps[] =
     0xFF81FF78, // RW static mapping: 0x1FF78000
     0xFF91F000, // RO static mapping: 0x1F000000
     0xFF91F600, // RO static mapping: 0x1F600000
-    0xFF002101, // Exflags: APPLICATION memtype + "Allow debug" + "Access core2"
+    0xFF002109, // Exflags: APPLICATION memtype + "Allow debug" + "Access core2"
     0xFE000200, // Handle table size: 0x200
 };
 
